@@ -7,8 +7,8 @@ inspired by https://dribbble.com/shots/3768963-Concept-Airline (Mario)
 https://dribbble.com/shots/14332704-Indie-Directors-Club (Rockstar)
 
 ### Wich languages i used :
-- [x] HTML 72.8%
-- [x] CSS 27.2%
+- [x] HTML
+- [x] CSS
 
 ### Instructions : 
 The **rules** of this project are here :
