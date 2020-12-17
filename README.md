@@ -2,7 +2,9 @@
 
 My collection (code pen): https://codepen.io/collection/AaxJWQ
 
-inspired by https://dribbble.com/shots/14555520-Folder-Hover-Animation
+inspired by https://dribbble.com/shots/10197121-Email-validation
+
+https://dribbble.com/shots/14555520-Folder-Hover-Animation
 
 https://dribbble.com/shots/3768963-Concept-Airline (Mario)
 
@@ -24,6 +26,7 @@ https://github.com/becodeorg/LIE-Hamilton-4.25/blob/master/01-main-course/02-the
 
 * Link of the project 4 (Rockstar):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/4%20red%20dead/rockstar.html
 
+* Link of the project 2 (Email):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/2%20email%20cyberpunk/email.html
+
 Link of the repo : https://github.com/iCarolinei/The-BeCode-Dribbble-Challenges---part-one
 
-Rockstar games, Mario ❤️ 
