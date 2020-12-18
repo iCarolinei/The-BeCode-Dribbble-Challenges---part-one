@@ -26,7 +26,7 @@ https://github.com/becodeorg/LIE-Hamilton-4.25/blob/master/01-main-course/02-the
 
 * Link of the project 9 (Mario):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/9%20mario/mario.html
 
-* Link of the project 10 (Folder):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/6%20wow/wow.html
+* Link of the project 10 (Wow):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/6%20wow/wow.html
 
 * Link of the project 4 (Rockstar):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/4%20red%20dead/rockstar.html
 
