@@ -2,7 +2,9 @@
 
 My collection (code pen): https://codepen.io/collection/AaxJWQ
 
-inspired by https://dribbble.com/shots/10197121-Email-validation
+inspired by https://dribbble.com/shots/14414839-Interior-design-agency-marketing-website (World of warcraft)
+
+https://dribbble.com/shots/10197121-Email-validation
 
 https://dribbble.com/shots/14555520-Folder-Hover-Animation
 
