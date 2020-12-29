@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Dribbble Lol</title>
+    <link href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" rel="stylesheet">
+    </script>
+    <link rel="stylesheet" href="lol.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="grid">
+        <div class="aside">
+
+            <div class="filter">
+                <h2 class="filter-1">
+                    <i class="fas fa-sliders-h"></i> Filtrer vos résultats
+                </h2>
+                <p class="filter-2"><u>Effacer tous les filtres</u></p>
+            </div>
+
+            <div class="role">
+                <p class="role-1"><b>Rôle</b></p>
+                <div class="test">
+                    <ul>
+                        <li>
+                            <i class="far fa-square"></i>
+                            Assasins
+                        </li>
+                        <li><i class="far fa-square"></i>
+                            Combattants</li>
+                        <li><i class="far fa-square"></i>
+                            Mages</li>
+                        <li><i class="far fa-square"></i>
+                            Tireurs</li>
+                        <li><i class="far fa-square"></i>
+                            Supports</li>
+                        <li><i class="far fa-square"></i>
+                            Tanks</li>
+                    </ul>
+                </div>
+                <p class="role-2">Montrer plus <i class="fas fa-angle-down"></i>
+                </p>
+            </div>
+
+            <div class="date">
+                <p class="date-1"><b>Année de sortie</b></p>
+                <p><label for="date-selection"></label>
+                    <select name="date-selection" id="date-selection">
+                        <option value="">A partir de</option>
+                        <option value="">Année</option>
+                    </select>
+                </p>
+
+                <p><label for="date-année"></label>
+                    <select name="date-année" id="date-année">
+                        <option value="2009">2009</option>
+                        <option value="2010">2010</option>
+                        <option value="2011">2011</option>
+                        <option value="2012">2012</option>
+                        <option value="2013">2013</option>
+                        <option value="2014">2014</option>
+                        <option value="2015">2015</option>
+                        <option value="2016">2016</option>
+                        <option value="2017">2017</option>
+                        <option value="2018">2018</option>
+                        <option value="2019">2019</option>
+                        <option value="2020">2020</option>
+
+                    </select>
+            </div>
+
+            <div class="difficulty">
+                <p class="difficulty-1"><b>Difficulté</b></p>
+                <p><label for="difficulty"></label>
+                    <select name="difficulty" id="difficulty">
+                        <option value="difficulty">Toutes les difficultés</option>
+                        <option value="easy">Facile</option>
+                        <option value="normal">Moyen</option>
+                        <option value="hard">Difficile</option>
+                    </select>
+                </p>
+
+                <p><label for="position"></label>
+                    <select name="position" id="position">
+                        <option value="positions">Style de gameplay</option>
+                        <option value="cac">Corps à corps</option>
+                        <option value="distance">Distance</option>
+                    </select>
+                </p>
+            </div>
+
+            <div class="skins">
+                <p class="skins-1"><b>Skins</b></p>
+                <ul>
+                    <li>
+                        <i class="far fa-square"></i>
+                        Aatrox
+                    </li>
+                    <li><i class="far fa-square"></i>
+                        Ahri</li>
+                    <li><i class="far fa-square"></i>
+                        Akali</li>
+                    <li><i class="far fa-square"></i>
+                        Alistar</li>
+                    <li><i class="far fa-square"></i>
+                        Amumu</li>
+                    <li><i class="far fa-square"></i>
+                        Anivia</li>
+                </ul>
+                <p class="skins-2">Montrer plus <i class="fas fa-angle-down"></i>
+                </p>
+            </div>
+
+            <div class="type">
+                <p class="type-1"><b>Sexe</b></p>
+                <ul>
+                    <li>
+                        <i class="far fa-circle"></i>
+                        Femme
+                    </li>
+                    <li><i class="far fa-circle"></i>
+                        Homme</li>
+                    <li><i class="far fa-circle"></i>
+                        Non binaire</li>
+                </ul>
+            </div>
+
+            <div class="price">
+                <p class="price-1"><b>Prix RP champions</b></p>
+                <p><label for="price"></label>
+                    <select name="price" id="difficulty">
+                        <option value="price">Tous les prix</option>
+                        <option value="price">260 RP</option>
+                        <option value="price">585 RP</option>
+                        <option value="price">790 RP</option>
+                        <option value="price">880 RP</option>
+                        <option value="price">975 RP</option>
+                        <option value="price">Promo</option>
+                        <option value="price">Croissant</option>
+                        <option value="price">Décroissant</option>
+                    </select>
+                </p>
+            </div>
+        </div>
+
+        <div class="title">
+            <h1 class="title-1">153 champions trouvés</h1>
+            <p class="title-2"><label for="try"><span class="pad">Trier par </span></label>
+                <select name="try" id="try">
+                    <option value="alp"> Alphabétique</option>
+                    <option value="up">Croissant</option>
+                    <option value="down">Décroissant</option>
+                </select>
+            </p>
+
+        </div>
+
+        <div class="section-1">
+            <div class="section-img1">
+                <img class="aatrox"
+                    src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt570145160dd39dca/5db05fa8347d1c6baa57be25/RiotX_ChampionList_aatrox.jpg?quality=90&width=250"
+                    alt="aatrox" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Aatrox</p>
+                <p class="bold">Epée des darkin</p>
+            </div>
+            <div class="section-find">
+                <p>Combattant <span class="mday">2013</span> Moyen</p>
+            </div>
+            <div class="section-price">
+                <p>880 RP</p>
+            </div>
+        </div>
+
+        <div class="section-2">
+            <div class="section-img2">
+                <img class="ahri"
+                    src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt1259276b6d1efa78/5db05fa86e8b0c6d038c5ca2/RiotX_ChampionList_ahri.jpg?quality=90&width=250"
+                    alt="ahri" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Ahri</p>
+                <p class="bold">Renard à neuf queues</p>
+            </div>
+            <div class="section-find">
+                <p>Mage <span class="mday">2011</span> Moyen</p>
+            </div>
+            <div class="section-price">
+                <p>880 RP</p>
+            </div>
+        </div>
+
+        <div class="section-3">
+            <div class="section-img3">
+                <img class="akali"
+                    src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt80ff58fe809777ff/5db05fa8adc8656c7d24e7d6/RiotX_ChampionList_akali.jpg?quality=90&width=250"
+                    alt="akali" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Akali</p>
+                <p class="bold">Assasin rebelle</p>
+            </div>
+            <div class="section-find">
+                <p>Assasin <span class="mday">2010</span> Moyen</p>
+            </div>
+            <div class="section-price">
+                <p>790 RP</p>
+            </div>
+        </div>
+
+        <div class="section-4">
+            <div class="section-img4">
+                <img class="alistar"
+                    src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3b366925d2fd8fdb/5db05fa856458c6b3fc1750b/RiotX_ChampionList_alistar.jpg?quality=90&width=250"
+                    alt="alistar" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Alistar</p>
+                <p class="bold">Minotaure</p>
+            </div>
+            <div class="section-find">
+                <p>Tank <span class="mday">2009</span> Moyen</p>
+            </div>
+            <div class="section-price">
+                <p>585 RP</p>
+            </div>
+        </div>
+
+        <div class="section-5">
+            <div class="section-img5">
+                <img class="amumu"
+                    src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt40dfbe48a61c439f/5db05fa80b39e86c2f83dbf9/RiotX_ChampionList_amumu.jpg?quality=90&width=250"
+                    alt="amumu" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Amumu</p>
+                <p class="bold">Momie Mélancolique</p>
+            </div>
+            <div class="section-find">
+                <p>Tank <span class="mday">2009</span> Facile</p>
+            </div>
+            <div class="section-price">
+                <p>260 RP</p>
+            </div>
+        </div>
+
+        <div class="section-6">
+            <div class="section-img6">
+                <img class="anivia"
+                    src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3d24a1482453088a/5db05fa8df78486c826dcce8/RiotX_ChampionList_anivia.jpg?quality=90&width=250"
+                    alt="anivia" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Anivia</p>
+                <p class="bold">Cryophénix</p>
+            </div>
+            <div class="section-find">
+                <p>Mage <span class="mday">2009</span> Difficile</p>
+            </div>
+            <div class="section-price">
+                <p>790 RP</p>
+            </div>
+        </div>
+
+        <div class="section-7">
+            <div class="section-img7">
+                <img class="annie"
+                    src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt28c708665427aef6/5db05fa89481396d6bdd01a6/RiotX_ChampionList_annie.jpg?quality=90&width=250"
+                    alt="annie" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Annie</p>
+                <p class="bold">Enfant des ténèbres</p>
+            </div>
+            <div class="section-find">
+                <p>Mage <span class="mday">2009</span> Moyen</p>
+            </div>
+            <div class="section-price">
+                <p>260 RP</p>
+            </div>
+        </div>
+
+        <div class="section-8">
+            <div class="section-img8">
+                <img class="aphelios"
+                    src="https://pbs.twimg.com/profile_images/1199102990965202945/j-uOASVb_400x400.jpg?quality=90&width=250"
+                    alt="aphelios" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Aphelios</p>
+                <p class="bold">Arme des Lunaris</p>
+            </div>
+            <div class="section-find">
+                <p>Tireur <span class="mday">2019</span> Difficile</p>
+            </div>
+            <div class="section-price">
+                <p>975 RP</p>
+            </div>
+        </div>
+
+        <div class="section-9">
+            <div class="section-img9">
+                <img class="ashe"
+                    src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt943aae038e2dee98/5db05fa8e9effa6ba5295f91/RiotX_ChampionList_ashe.jpg?quality=90&width=250"
+                    alt="ashe" />
+            </div>
+            <div class="section-title">
+                <p class="bold">Ashe</p>
+                <p class="bold">Archère de givre</p>
+            </div>
+            <div class="section-find">
+                <p>Tireur <span class="mday">2009</span> Moyen</p>
+            </div>
+            <div class="section-price">
+                <p>260 RP</p>
+            </div>
+        </div>
+        <!-- <div class="footer">
+      <button class="prev">Prev</button>
+      <button class="page-1">1</button>
+      <button class="page-2">2</button>
+      <button class="next">Next</button>
+    </div>-->
+    </div>
+</body>
+
+</html>
