@@ -2,7 +2,9 @@
 
 My collection (code pen): https://codepen.io/collection/AaxJWQ
 
-inspired by https://dribbble.com/shots/14414839-Interior-design-agency-marketing-website (World of warcraft)
+inspired by https://dribbble.com/shots/14815135-Automotive-Occasion-page (League of Legends)
+
+https://dribbble.com/shots/14414839-Interior-design-agency-marketing-website (World of warcraft)
 
 https://dribbble.com/shots/10197121-Email-validation
 
@@ -21,6 +23,9 @@ The **rules** of this project are here :
 https://github.com/becodeorg/LIE-Hamilton-4.25/blob/master/01-main-course/02-the-hills/03-dribbble-challenges.md
 
 ### The link of the project :
+
+* Link of the project 15 (Lol):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/15%20lol/lol.html
+https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/15%20lol-profil/lol-profil.html
 
 * Link of the project 10 (Folder):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/10%20folder/folder.html
 
