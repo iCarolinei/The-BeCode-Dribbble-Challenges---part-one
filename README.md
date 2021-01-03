@@ -25,7 +25,7 @@ https://github.com/becodeorg/LIE-Hamilton-4.25/blob/master/01-main-course/02-the
 ### The link of the project :
 
 * Link of the project 15 (Lol):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/15%20lol/lol.html
-https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/15%20lol-profil/lol-profil.html
+https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/15%20lol/lol-profil.html
 
 * Link of the project 10 (Folder):https://icarolinei.github.io/The-BeCode-Dribbble-Challenges---part-one/10%20folder/folder.html
 
