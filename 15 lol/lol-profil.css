@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f7f9fb;
+  font-family: "Antic Slab", serif;
+  padding: 5% 12% 2% 12%;
+  color: #304249;
+  font-size: 17px;
+}
+
+.grid{
+  display:grid;
+   grid-template-columns: repeat(2);
+  grid-template-rows: repeat(25);
+  /*column-gap: 50px;
+  row-gap: 50px;*/
+    background-color:grey;
+
+}
+
+.overview{
+    grid-column: 1/3;
+  grid-row: 1/2;
+}
+
+.img-gallery{
+    grid-column: 1/2;
+  grid-row: 2/10;
+  display:grid;
+    grid-template-columns: repeat(6);
+  grid-template-rows: repeat(6);
+}
+
+img {
+  height:100%;
+   width:100%;
+
+
+}
+
+.img-main{
+   grid-column: 1/7;
+  grid-row: 1/6;
+  
+}
+
+.img-skin1{
+   grid-column: 1/2;
+  grid-row: 6/7;
+ 
+}
+
+.img-skin2{
+   grid-column: 2/3;
+  grid-row: 6/7;
+}
+
+.img-skin3{
+   grid-column: 3/4;
+  grid-row: 6/7;
+}
+
+.img-skin4{
+   grid-column: 4/5;
+  grid-row: 6/7;
+}
+
+.img-skin5{
+   grid-column: 5/6;
+  grid-row: 6/7;
+}
+
+.img-skin6{
+   grid-column: 6/7;
+  grid-row: 6/7;
+}
+
+.section-info {
+   grid-column: 1/2;
+  grid-row: 10/16;
+  display:grid;
+   grid-template-columns: repeat(4,1fr);
+  grid-template-rows: repeat(2);
+}
+
+.title-info{
+   grid-column: 1/2;
+  grid-row: 1/2;
+   
+
+}
+
+.section-info1 {
+   grid-column: 1/2;
+  grid-row: 2/3;
+   
+
+}
+.section-info2 {
+   grid-column: 2/3;
+  grid-row: 2/3;
+   
+
+}
+.section-info3 {
+   grid-column: 3/4;
+  grid-row: 2/3;
+   
+
+}
+.section-info4 {
+   grid-column: 4/5;
+  grid-row: 2/3;
+   
+
+}
+
+.section-stat {
+   grid-column: 1/2;
+  grid-row: 16/20;
+    display:grid;
+   grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2);
+}
+.title-stat {
+   grid-column: 1/2;
+  grid-row: 1/2;
+}
+
+.section-stat1 {
+   grid-column: 1/2;
+  grid-row: 2/3;
+   
+
+}
+.section-stat2 {
+   grid-column: 2/3;
+  grid-row: 2/3;
+   
+
+}
+.section-stat3 {
+   grid-column: 3/4;
+  grid-row: 2/3;
+   
+
+}
+.section-stat4 {
+   grid-column: 4/5;
+  grid-row: 2/3;
+   
+
+}
+
+.section-history {
+   grid-column: 1/2;
+  grid-row: 20/26;
+}
+
+.aside-1 {
+   grid-column: 2/3;
+  grid-row: 2/9;
+  background-color:red;
+
+}
+
+.aside-2 {
+   grid-column: 2/3;
+  grid-row:auto;
+
+}
+
+
+
+.color {
+      color: blue;
+}
+
+.aside-left a {
+  text-decoration: none;
+  color: blue;
+}
+
+.btn-style a {
+    text-decoration: none;
+
+}
+
+
+
+
+.line {
+    text-decoration: line-through;
+}
+
+.bold {
+   font-size : 20px;
+  font-weight:900;
+}
