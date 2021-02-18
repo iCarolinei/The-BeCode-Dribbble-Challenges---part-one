@@ -17,6 +17,7 @@ https://dribbble.com/shots/14332704-Indie-Directors-Club (Rockstar)
 ### Wich languages i used :
 - [x] HTML
 - [x] CSS
+- [x] JS
 
 ### Instructions : 
 The **rules** of this project are here :
